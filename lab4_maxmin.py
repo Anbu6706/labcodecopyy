@@ -11,7 +11,7 @@ def get_range(*numbers):
         if num <min:
             min=num
         if num>max:
-             max-num
+             max=num
              
     return  max - min
 
